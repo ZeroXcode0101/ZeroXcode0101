@@ -6,6 +6,8 @@
 
 ### 🚀 About Me
 
+Hi, I'm Omayr 👋 | Backend Web Development Learner 🌱 | Aspiring Programmer ⚡ | Internship Seeker 👀 | Hobby photographer 📷
+
 🌱 &nbsp;I'm currently learning **C# OOP**  
 😄 &nbsp;Pronouns: **he/his**
 
