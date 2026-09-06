@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/ZeroXcode0101">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Omayr" alt="Hello! I&#39;m Omayr" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Omayr" alt="Hi! I&#39;m Omayr" />
   </a>
 </p>
 
 ### 🚀 About Me
 
-Hi, I'm Omayr 👋 | Backend Web Development Learner 🌱 | Aspiring Programmer ⚡ | Internship Seeker 👀 | Hobby photographer 📷
+Hi, I'm a Backend Web Development Learner 🌱 | Aspiring Programmer ⚡ | Internship Seeker 👀 | Hobby photographer 📷
 
 🌱 &nbsp;I'm currently learning **C# OOP**  
 😄 &nbsp;Pronouns: **he/his**
