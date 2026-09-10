@@ -1,51 +1,63 @@
-## Building in public
-
-<div align="center">
-
-# zeroxcode0101
-
-> Technical founder
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=zeroxcode0101&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135758818%3Fu%3D83db6155f7167da43bbe38d4b543c78bd7dfecc0%26v%3D4" alt="zeroxcode0101 hero visual" />
+  <a href="https://github.com/ZeroXcode0101">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hi!%20I'm%20Omayr" alt="Hi! I&#39;m Omayr" />
+  </a>
 </p>
 
-</div>
+### 🚀 About Me
 
-## The point of view
+🌱 &nbsp;I'm currently learning **C# OOP**  
+😄 &nbsp;Pronouns: **he/his**
 
-> Building useful things and learning in public.
+### 🛠️ Tech Stack
 
-- 👥 **0** followers · **1** following
-
-*Small, useful work over vague claims.*
-
-## What I’m shipping
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=zeroxcode0101&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135758818%3Fu%3D83db6155f7167da43bbe38d4b543c78bd7dfecc0%26v%3D4" alt="zeroxcode0101 highlights visual" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-<p><b>zeroxcode0101</b> is shipping 1 public projects with 0 stars of proof.</p>
+### 🔗 Connect With Me
 
-## Products and proof
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/ZeroXcode0101/ZeroXcode0101">ZeroXcode0101</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-</table>
-
-## Momentum
-
-<table>
-<tr><td align="center"><b>1</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>5</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Start a conversation
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=zeroxcode0101&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F135758818%3Fu%3D83db6155f7167da43bbe38d4b543c78bd7dfecc0%26v%3D4" alt="zeroxcode0101 social visual" />
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/omayr-mostafa-220770365" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/3omayr_sa7b_al_noghair" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dev.to/omayr_mostafa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:omayr844@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<a href="https://github.com/zeroxcode0101">GitHub</a>
+### 📊 GitHub Stats
 
-<p align="center"><sub>zeroxcode0101 · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ZeroXcode0101&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ZeroXcode0101&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroXcode0101&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/ZeroXcode0101">ZeroXcode0101</a></i></p>
